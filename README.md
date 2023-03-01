@@ -1,3 +1,3 @@
 # myGulpBoilerplate
 
-https://nixon-fj.github.io/nixonFernandezDev/public/
+https://nixon-fj.github.io/nixonfernandezdev/public/
